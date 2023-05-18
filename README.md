@@ -1,2 +1,2 @@
 # data_structures
-Implentation of various data structures in C
+(Typically very basic) Implentations of various data structures in C
